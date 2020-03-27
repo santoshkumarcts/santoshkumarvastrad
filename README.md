@@ -1,7 +1,7 @@
 # santoshkumarvastrad
 Crawler-Service
 
-STEPS TO RUN THE JAR
+STEPS TO RUN THE JAR																																																			
 1.Download the zip/clone the repository from drop-down.
 2. Unzip it
 3. Run the command "cd Crawler-Service/"
